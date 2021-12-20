@@ -1,0 +1,1 @@
+private static final MY_VAR="record";
